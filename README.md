@@ -95,7 +95,7 @@ project_09_business_survival_recommender/
 
 ```bash
 # Clone the repository
-git clone https://github.com/olag-portfolio/calgary-business-survival.git
+git clone https://github.com/guydev42/calgary-business-survival.git
 cd calgary-business-survival
 
 # Install dependencies
@@ -153,5 +153,5 @@ Data provided by the [City of Calgary Open Data Portal](https://data.calgary.ca/
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/olag-portfolio">Ola G</a>
+  Built by <a href="https://github.com/guydev42">Ola K.</a>
 </p>
